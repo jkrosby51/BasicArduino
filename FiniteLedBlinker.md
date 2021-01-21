@@ -1,5 +1,3 @@
-Finite LED Blinker
-
 ```C++
 //  Johnny Krosby
 //  Blinks 5 times and then stops
