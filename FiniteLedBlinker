@@ -1,9 +1,9 @@
 Finite LED Blinker
+
 ```C++
-/*
-  Johnny Krosby
-  Blinks 5 times and then stops
-*/
+//  Johnny Krosby
+//  Blinks 5 times and then stops
+
 int counter = 0;
 int ledPin = 8;
 
