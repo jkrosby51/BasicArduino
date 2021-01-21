@@ -1,5 +1,4 @@
-```javascript
-
+```C++
 /*
   Johnny Krosby
   Blinks 5 times and then stops
@@ -23,5 +22,4 @@ void loop() {
     delay(100);
   }
 }
-
 ```
